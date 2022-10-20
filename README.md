@@ -6,6 +6,13 @@ It's just a proof of concept for now because its just to show that sending an em
 ## What It Does
 Essentially you can send an email to a certain address and it will show up as a ticket on the website.
 
+<img  src=".github/images/2022-Oct_20___at__13-27.png">
+
+<br>
+<img src=".github/images/2022-Oct_20___at__13-28.png">
+
+
+
 ## Technologies Used
 - Python
 - Gmail API
